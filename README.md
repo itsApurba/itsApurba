@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**itsApurba/itsApurba** is a ✨ _special_ ✨
+✨ _special_ ✨
 
 - 👯 I’m looking to collaborate on Aliens
 - 💬 Ask me about anything
