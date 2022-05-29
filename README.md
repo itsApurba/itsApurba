@@ -2,13 +2,9 @@
 
 **itsApurba/itsApurba** is a ✨ _special_ ✨
 
-- 🔭 I’m currently working on a personal project
-- 🌱 I’m currently learning from Mars
 - 👯 I’m looking to collaborate on Aliens
-- 🤔 I’m looking for help with my spacecraft
 - 💬 Ask me about anything
-- 📫 How to reach me: I'm everywhere
-- 😄 Pronouns: he/him/ironman
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: typing...
 
 
