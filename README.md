@@ -2,7 +2,7 @@
 
 ✨ _special_ ✨
 
-- 👯 I’m looking to collaborate on Aliens
+- 👯 I’m looking to collaborate with Aliens
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: typing...
