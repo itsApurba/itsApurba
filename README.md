@@ -6,5 +6,3 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: typing...
-
-
