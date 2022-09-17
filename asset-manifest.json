@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/itsApurba/static/css/main.073c9b0a.css",
-    "main.js": "/itsApurba/static/js/main.e124fe38.js",
+    "main.css": "/itsApurba/static/css/main.c6f149b7.css",
+    "main.js": "/itsApurba/static/js/main.db388c58.js",
     "static/js/787.d89a73a5.chunk.js": "/itsApurba/static/js/787.d89a73a5.chunk.js",
-    "static/media/logo.svg": "/itsApurba/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/profile.jpg": "/itsApurba/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/itsApurba/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/John-Cv.pdf": "/itsApurba/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/itsApurba/index.html",
-    "main.073c9b0a.css.map": "/itsApurba/static/css/main.073c9b0a.css.map",
-    "main.e124fe38.js.map": "/itsApurba/static/js/main.e124fe38.js.map",
+    "main.c6f149b7.css.map": "/itsApurba/static/css/main.c6f149b7.css.map",
+    "main.db388c58.js.map": "/itsApurba/static/js/main.db388c58.js.map",
     "787.d89a73a5.chunk.js.map": "/itsApurba/static/js/787.d89a73a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e124fe38.js"
+    "static/css/main.c6f149b7.css",
+    "static/js/main.db388c58.js"
   ]
 }
