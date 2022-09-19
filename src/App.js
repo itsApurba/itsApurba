@@ -1,30 +1,36 @@
-import "./App.css";
-import About from "./components/about/About";
-import Contact from "./components/contact/Contact";
-import Footer from "./components/footer/Footer";
-import Header from "./components/header/Header";
-import Home from "./components/home/Home";
-import Portfolio from "./components/portfolio/Portfolio";
-import Qualification from "./components/qualification/Qualification";
-import Scrollup from "./components/scrollup/Scrollup";
-import Skills from "./components/skills/Skills";
+import React, { useEffect } from "react";
+import ScrollToTop from "./components/ScrollToTop";
+import AllRoutes from "./router/AllRoutes";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import AnimatedCursor from "react-animated-cursor";
+import { ToastContainer } from "react-toastify";
 
-function App() {
+const App = () => {
+  // this for animation
+  useEffect(() => {
+    AOS.init({
+      duration: 1200,
+    });
+  }, []);
+
   return (
     <>
-      <Header />
-      <main className='main'>
-        <Home />
-        <About />
-        <Skills />
-        <Qualification />
-        <Portfolio />
-        <Contact />
-      </main>
-      <Footer />
-      <Scrollup />
+      <AnimatedCursor
+        innerSize={8}
+        outerSize={44}
+        color='255, 160, 1'
+        outerAlpha={0.3}
+        innerScale={0.7}
+        outerScale={1.2}
+      />
+      <ScrollToTop />
+      <AllRoutes />
+      {/* End contact */}
+      <ToastContainer />
+      {/* Same as */}
     </>
   );
-}
+};
 
 export default App;
