@@ -74,6 +74,11 @@
 
 <!-- https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md?plain=1 -->
 
+<!-- <details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details> -->
+
 <h2 align="center"> ──「 ⚡ Recent Activity ⚡ 」──</h2>
 
 <br/>
