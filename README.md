@@ -95,5 +95,3 @@
 
 ---
 
-<!--START_SECTION:wordcloud-->
-<!--END_SECTION:wordcloud-->
