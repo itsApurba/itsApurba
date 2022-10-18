@@ -37,8 +37,10 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<section align="center"><img align="center" Width="600px" src="https://github-readme-stats.vercel.app/api?username=itsApurba&show_icons=true&count_private=true&hide=stars&theme=dark" />
+<section align="center"><img align="center" Width="600px" src="https://github-readme-stats.vercel.app/api?username=itsapurba&show_icons=true&theme=dark&locale=en" />
 </section>
+
+<!-- https://github-readme-stats.vercel.app/api?username=itsApurba&show_icons=true&count_private=true&hide=stars&theme=dark -->
 
 <br/>
 
