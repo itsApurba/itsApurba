@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurba adhikary</h1>
-<h3 align="center">A passionate Full stack web devloper</h3>
+<h2 align="center">A passionate Full stack web devloper [:india:]</h2>
 <h3 align="left">An aspiring full stack developer with a specialization in 💻 MERN stack. I like to solve problems and making user-centric products, Looking forward to honing my skills in a challenging work environment.</h3>
 
 - 🌱 I’m currently learning **MERN stack at masai school**
@@ -14,13 +14,19 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uV4QKOIX_pyOzzFSEvs21nA-TllwueMv/view?usp=sharing)
 
-<h2 align="center"> ──「 Languages and Tools 」──</h2>
+<br/>
+
+<h2 align="center"> ──「 💡 Languages and Tools 💡 」──</h2>
+
+<br/>
 
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"> ──「 📊 My Github Stats 」──</h2>
+<br/>
+
+<h2 align="center"> ──「 📊 My Github Stats 📊 」──</h2>
 
 <br/>
 
@@ -68,7 +74,7 @@
 
 <!-- https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md?plain=1 -->
 
-<h2 align="center"> ──「 ⚡ Recent Activity :zap: 」──</h2>
+<h2 align="center"> ──「 ⚡ Recent Activity ⚡ 」──</h2>
 
 <br/>
 
