@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: Parply/profile-wordcloud@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ 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 }}
