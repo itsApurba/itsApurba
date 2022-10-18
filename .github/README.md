@@ -76,6 +76,8 @@
 
 <h2 align="center"> ──「 ⚡ Recent Activity ⚡ 」──</h2>
 
+---
+
 <br/>
 
 <table align="center">
@@ -89,8 +91,6 @@
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
-
----
 
 <br/>
 
