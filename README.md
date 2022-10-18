@@ -48,7 +48,7 @@
 
 <section align="center">
 <a href="https://github.com/itsApurba">
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsApurba&layout=compact&theme=dark&langs_count=4" />
+  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsApurba&layout=compact&langs_count=4&theme=dark" />
 </a>
 <a href="https://github.com/itsApurba">
   <img align="center" width="300px" src="https://streak-stats.demolab.com?user=itsApurba&theme=dark" />
