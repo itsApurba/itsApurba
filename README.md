@@ -95,3 +95,9 @@
 
 ---
 
+<table align="center">
+  <tbody>
+  <!--RECENT_ACTIVITY:start-->
+  <!--RECENT_ACTIVITY:end-->
+  </tbody>
+</table>
