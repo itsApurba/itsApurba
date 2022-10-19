@@ -37,6 +37,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<section align="center">
+
 <p align="center">
 <img align="center" Width="600px" src="https://github-readme-stats.vercel.app/api?username=itsapurba&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars" />
 </p>
@@ -55,6 +57,8 @@
   <img align="center" width="300px" src="https://streak-stats.demolab.com?user=itsApurba&theme=dark" />
 </a>
 </p>
+
+</section>
 
 <br/>
 
