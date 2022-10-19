@@ -86,8 +86,8 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/itsApurba/itsApurba.github.io/issues/1"><b>#1</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
