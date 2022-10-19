@@ -46,8 +46,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<section align="center"><img align="center" Width="600px" src="https://github-readme-stats.vercel.app/api?username=itsapurba&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars" />
-</section>
+<p align="center"><img align="center" Width="600px" src="https://github-readme-stats.vercel.app/api?username=itsapurba&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars" />
+</p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=itsApurba&show_icons=true&count_private=true&hide=stars&theme=dark -->
 
@@ -55,14 +55,14 @@
 
 <!-- https://streak-stats.demolab.com/ -->
 
-<section align="center">
+<p align="center">
 <a href="https://github.com/itsApurba">
   <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsApurba&layout=compact&langs_count=4&theme=dark" />
 </a>
 <a href="https://github.com/itsApurba">
   <img align="center" width="300px" src="https://streak-stats.demolab.com?user=itsApurba&theme=dark" />
 </a>
-</section>
+</p>
 
 <br/>
 
