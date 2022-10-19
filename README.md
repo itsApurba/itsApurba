@@ -100,9 +100,9 @@
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/shubhrakantighosh/meanbuy/pull/11#issuecomment-1283403773"><b>#11</b></a> in <a href="https://github.com/shubhrakantighosh/meanbuy"><b>shubhrakantighosh/meanbuy</b></a></td></tr>
 <tr><td align="center">❌ Closed PR <a href="https://github.com/shubhrakantighosh/meanbuy/pull/11"><b>#11</b></a> in <a href="https://github.com/shubhrakantighosh/meanbuy"><b>shubhrakantighosh/meanbuy</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
