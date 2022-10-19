@@ -97,7 +97,7 @@
 
 <br/>
 
-<a href="https://github.com/itsApurba/github-readme-activity-graph"><img alt="Vaibhav Solanki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsapurba&bg_color=0D1117&color=79fe96&line=79fe96&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/itsApurba"><img alt="Apurba Adhikary" src="https://activity-graph.herokuapp.com/graph?username=itsapurba&bg_color=0D1117&color=79fe96&line=79fe96&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
