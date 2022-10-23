@@ -86,10 +86,10 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/MALSync/MALSync"><b>MALSync/MALSync</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/saikou-app/saikou"><b>saikou-app/saikou</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/MALSync/MALSync"><b>MALSync/MALSync</b></a></td></tr>
 <tr><td align="center">❗️ Opened issue <a href="https://github.com/itsApurba/itsApurba.github.io/issues/4"><b>#4</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
