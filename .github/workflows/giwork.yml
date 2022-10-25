@@ -30,6 +30,6 @@ jobs:
 
            user_name: itsApurba
 
-           text: Apurba
+           text: itsApurba
 
       - uses: jasineri/simple-push-action@v1
