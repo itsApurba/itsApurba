@@ -86,10 +86,10 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/SWAIN1998/Javascript-Interview-Questions"><b>SWAIN1998/Javascript-Interview-Questions</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/sagar6699k/My-Collections"><b>sagar6699k/My-Collections</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/campusx-official/ML-Roadmap-for-2022"><b>campusx-official/ML-Roadmap-for-2022</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
