@@ -86,11 +86,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/11"><b>#11</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/9"><b>#9</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/8"><b>#8</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/heyabrar/YourStore/pull/2"><b>#2</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/32"><b>#32</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/31"><b>#31</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/30"><b>#30</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/28"><b>#28</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/YourStore/issues/27"><b>#27</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
