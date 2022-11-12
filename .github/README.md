@@ -86,8 +86,8 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/heyabrar/YourStore/pull/52"><b>#52</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 20 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
