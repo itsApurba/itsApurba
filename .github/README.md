@@ -86,11 +86,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/vinta/awesome-python"><b>vinta/awesome-python</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/rome/tools"><b>rome/tools</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 10 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/heyabrar/YourStore/pull/59"><b>#59</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/heyabrar/YourStore/pull/59"><b>#59</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
