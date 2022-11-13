@@ -88,9 +88,9 @@
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/vinta/awesome-python"><b>vinta/awesome-python</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/rome/tools"><b>rome/tools</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
