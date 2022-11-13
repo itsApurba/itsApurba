@@ -86,11 +86,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Cyberavater/Mega-Import-Bypass"><b>Cyberavater/Mega-Import-Bypass</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/studio-freight/lenis"><b>studio-freight/lenis</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/vinta/awesome-python"><b>vinta/awesome-python</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/rome/tools"><b>rome/tools</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
