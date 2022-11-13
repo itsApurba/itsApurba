@@ -86,11 +86,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/YourStore/issues/11"><b>#11</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/YourStore/issues/18"><b>#18</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/YourStore/issues/22"><b>#22</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/YourStore/issues/27"><b>#27</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/YourStore/issues/28"><b>#28</b></a> in <a href="https://github.com/heyabrar/YourStore"><b>heyabrar/YourStore</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
