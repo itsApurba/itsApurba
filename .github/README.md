@@ -86,11 +86,7 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">❌ Closed PR <a href="https://github.com/omrilotan/espanso-package-wtc/pull/1"><b>#1</b></a> in <a href="https://github.com/omrilotan/espanso-package-wtc"><b>omrilotan/espanso-package-wtc</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/omrilotan/espanso-package-wtc/pull/1"><b>#1</b></a> in <a href="https://github.com/omrilotan/espanso-package-wtc"><b>omrilotan/espanso-package-wtc</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/espanso-package-wtc"><b>itsApurba/espanso-package-wtc</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/espanso-package-wtc"><b>itsApurba/espanso-package-wtc</b></a> from <a href="https://github.com/omrilotan/espanso-package-wtc"><b>omrilotan/espanso-package-wtc</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Cyberavater/Mega-Import-Bypass"><b>Cyberavater/Mega-Import-Bypass</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
