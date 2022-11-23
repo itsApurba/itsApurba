@@ -86,11 +86,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/ShoppingParadise"><b>itsApurba/ShoppingParadise</b></a> from <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript"><b>amejiarosario/dsa.js-data-structures-algorithms-javascript</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
