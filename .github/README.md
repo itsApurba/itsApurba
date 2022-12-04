@@ -106,8 +106,8 @@
 <br/>
 
 <p align="center">
-<a href="https://linkedin.com/in/apurba1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Apurba Adhikary" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=+919062371141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="inco-solanki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apurba1212" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Apurba Adhikary" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919062371141" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="inco-solanki" height="40" width="40" /></a>
 <!-- <a href="https://t.me.c1gaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavsolanki" height="30" width="40" /></a> -->
 </p>
 
