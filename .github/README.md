@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/briansunter/logseq-plugin-gpt3-openai"><b>briansunter/logseq-plugin-gpt3-openai</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Ozencb/tilde-enhanced"><b>Ozencb/tilde-enhanced</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Cel51/startpage"><b>Cel51/startpage</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/mue/mue"><b>mue/mue</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/xvvvyz/tilde"><b>xvvvyz/tilde</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
