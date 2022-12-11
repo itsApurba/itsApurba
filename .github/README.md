@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/yashagrawal300/python-programs"><b>yashagrawal300/python-programs</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/filipecalegario/awesome-generative-deep-art"><b>filipecalegario/awesome-generative-deep-art</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/michaelkitas/Nodejs-Puppeteer-Tutorial"><b>michaelkitas/Nodejs-Puppeteer-Tutorial</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/pythops/amagpt3"><b>pythops/amagpt3</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/yagop/node-telegram-bot-api"><b>yagop/node-telegram-bot-api</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
