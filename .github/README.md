@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/4"><b>#4</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/2"><b>#2</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 7 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/3"><b>#3</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/1"><b>#1</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
