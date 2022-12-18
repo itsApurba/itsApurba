@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 3 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/45"><b>#45</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/45"><b>#45</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/hip-bone-1857"><b>itsApurba/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/hip-bone-1857"><b>itsApurba/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/hip-bone-1857"><b>itsApurba/hip-bone-1857</b></a> from <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/starter-rest-api"><b>itsApurba/starter-rest-api</b></a> from <a href="https://github.com/cyclic-software/starter-rest-api"><b>cyclic-software/starter-rest-api</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/44"><b>#44</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
