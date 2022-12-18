@@ -89,10 +89,10 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">💪 Opened PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/43"><b>#43</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 13 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/44"><b>#44</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 10 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/44"><b>#44</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">❌ Closed PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/43"><b>#43</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
