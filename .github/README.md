@@ -90,10 +90,10 @@
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 3 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/38"><b>#38</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 4 commit(s) to <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/AbhayAg10/hip-bone-1857/pull/38"><b>#38</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
