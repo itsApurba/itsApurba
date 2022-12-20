@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/5"><b>#5</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/8"><b>#8</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/hip-bone-1857"><b>itsApurba/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 5 commit(s) to <a href="https://github.com/itsApurba/hip-bone-1857"><b>itsApurba/hip-bone-1857</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
