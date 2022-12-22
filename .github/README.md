@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 10 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/ShoppingParadise/issues/67"><b>#67</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/heyabrar/ShoppingParadise/pull/75"><b>#75</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/heyabrar/ShoppingParadise/pull/75"><b>#75</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/ShoppingParadise/issues/73"><b>#73</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/ShoppingParadise/issues/69"><b>#69</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">❗️ Opened issue <a href="https://github.com/heyabrar/ShoppingParadise/issues/67"><b>#67</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/5"><b>#5</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
-<tr><td align="center">✔️ Closed issue <a href="https://github.com/AbhayAg10/hip-bone-1857/issues/8"><b>#8</b></a> in <a href="https://github.com/AbhayAg10/hip-bone-1857"><b>AbhayAg10/hip-bone-1857</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
