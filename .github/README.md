@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/ShoppingParadise/issues/69"><b>#69</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/heyabrar/ShoppingParadise/pull/83"><b>#83</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 16 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Kerosz/chirila.dev"><b>Kerosz/chirila.dev</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 10 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">✔️ Closed issue <a href="https://github.com/heyabrar/ShoppingParadise/issues/67"><b>#67</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/heyabrar/ShoppingParadise/pull/75"><b>#75</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
