@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/anshulrgoyal/rust-web-developer-roadmap"><b>anshulrgoyal/rust-web-developer-roadmap</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/karanpratapsingh/system-design"><b>karanpratapsingh/system-design</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 5 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
