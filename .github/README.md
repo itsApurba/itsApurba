@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/LAION-AI/Open-Assistant"><b>LAION-AI/Open-Assistant</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 8 commit(s) to <a href="https://github.com/itsApurba/ShoppingParadise"><b>itsApurba/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 6 commit(s) to <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/heyabrar/ShoppingParadise/pull/87"><b>#87</b></a> in <a href="https://github.com/heyabrar/ShoppingParadise"><b>heyabrar/ShoppingParadise</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 52 commit(s) to <a href="https://github.com/itsApurba/ShoppingParadise"><b>itsApurba/ShoppingParadise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
