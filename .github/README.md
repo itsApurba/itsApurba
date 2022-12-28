@@ -12,7 +12,7 @@
 
 - 📫 Drop a mail **its.apurba@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uV4QKOIX_pyOzzFSEvs21nA-TllwueMv/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uV4QKOIX_pyOzzFSEvs21nA-TllwueMv/view?usp=sharing) -->
 
 <br/>
 
