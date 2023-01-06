@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore"><b>you-dont-need/You-Dont-Need-Lodash-Underscore</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists"><b>youssefHosni/Efficient-Python-for-Data-Scientists</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/louisfb01/best_AI_papers_2022"><b>louisfb01/best_AI_papers_2022</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/InterviewReady/system-design-resources"><b>InterviewReady/system-design-resources</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/riramar/Web-Attack-Cheat-Sheet"><b>riramar/Web-Attack-Cheat-Sheet</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/novuhq/novu"><b>novuhq/novu</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
