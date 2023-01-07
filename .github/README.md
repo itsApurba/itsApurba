@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/gothinkster/realworld"><b>gothinkster/realworld</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/ml-tooling/best-of-ml-python"><b>ml-tooling/best-of-ml-python</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/latentflip/loupe"><b>latentflip/loupe</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore"><b>you-dont-need/You-Dont-Need-Lodash-Underscore</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists"><b>youssefHosni/Efficient-Python-for-Data-Scientists</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/louisfb01/best_AI_papers_2022"><b>louisfb01/best_AI_papers_2022</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/InterviewReady/system-design-resources"><b>InterviewReady/system-design-resources</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
