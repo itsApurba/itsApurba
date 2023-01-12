@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/gothinkster/realworld"><b>gothinkster/realworld</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ml-tooling/best-of-ml-python"><b>ml-tooling/best-of-ml-python</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/latentflip/loupe"><b>latentflip/loupe</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore"><b>you-dont-need/You-Dont-Need-Lodash-Underscore</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists"><b>youssefHosni/Efficient-Python-for-Data-Scientists</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
