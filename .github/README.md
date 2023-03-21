@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/consumet/api.consumet.org"><b>consumet/api.consumet.org</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/project-template-generator"><b>itsApurba/project-template-generator</b></a> from <a href="https://github.com/DuwainevanDriel/project-template-generator"><b>DuwainevanDriel/project-template-generator</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/poteto/hiring-without-whiteboards"><b>poteto/hiring-without-whiteboards</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/DovAmir/awesome-design-patterns"><b>DovAmir/awesome-design-patterns</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/firebase-tutorial"><b>itsApurba/firebase-tutorial</b></a> from <a href="https://github.com/samfromaway/firebase-tutorial"><b>samfromaway/firebase-tutorial</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
