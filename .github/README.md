@@ -90,8 +90,8 @@
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/eval4-backend"><b>itsApurba/eval4-backend</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/spicetify/spicetify-cli"><b>spicetify/spicetify-cli</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/eval4-backend"><b>itsApurba/eval4-backend</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/spicetify/spicetify-cli"><b>spicetify/spicetify-cli</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/eval4-backend"><b>itsApurba/eval4-backend</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/eval4-backend"><b>itsApurba/eval4-backend</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
