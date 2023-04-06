@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/saurabhnative/create-frontend-readme"><b>saurabhnative/create-frontend-readme</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/react-dashboard"><b>itsApurba/react-dashboard</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/react-dashboard"><b>itsApurba/react-dashboard</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/react-dashboard"><b>itsApurba/react-dashboard</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/react-dashboard"><b>itsApurba/react-dashboard</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/react-dashboard"><b>itsApurba/react-dashboard</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
