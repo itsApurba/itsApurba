@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/sorrycc/awesome-javascript"><b>sorrycc/awesome-javascript</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/liriliri/eruda"><b>liriliri/eruda</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/jbhuang0604/awesome-tips"><b>jbhuang0604/awesome-tips</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Minesraft2/Blooket-Cheats"><b>Minesraft2/Blooket-Cheats</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/saurabhnative/create-frontend-readme"><b>saurabhnative/create-frontend-readme</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
