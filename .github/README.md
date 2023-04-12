@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Sanster/lama-cleaner"><b>Sanster/lama-cleaner</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/unocss/unocss"><b>unocss/unocss</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/slint-ui/slint"><b>slint-ui/slint</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/sorrycc/awesome-javascript"><b>sorrycc/awesome-javascript</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/liriliri/eruda"><b>liriliri/eruda</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
