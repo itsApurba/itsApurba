@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/e2b-dev/e2b"><b>e2b-dev/e2b</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/Leask/halbot"><b>Leask/halbot</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/waylaidwanderer/node-chatgpt-api"><b>waylaidwanderer/node-chatgpt-api</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/mikeroyal/Self-Hosting-Guide"><b>mikeroyal/Self-Hosting-Guide</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Sanster/lama-cleaner"><b>Sanster/lama-cleaner</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/unocss/unocss"><b>unocss/unocss</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/slint-ui/slint"><b>slint-ui/slint</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/sorrycc/awesome-javascript"><b>sorrycc/awesome-javascript</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
