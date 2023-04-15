@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Mayandev/hacker-feeds-cli"><b>Mayandev/hacker-feeds-cli</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ravenscroftj/turbopilot"><b>ravenscroftj/turbopilot</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/zumly/zumly"><b>zumly/zumly</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/zircleUI/zircleUI"><b>zircleUI/zircleUI</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/e2b-dev/e2b"><b>e2b-dev/e2b</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Leask/halbot"><b>Leask/halbot</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
