@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/zumly/zumly"><b>zumly/zumly</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/zircleUI/zircleUI"><b>zircleUI/zircleUI</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/e2b-dev/e2b"><b>e2b-dev/e2b</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Leask/halbot"><b>Leask/halbot</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/waylaidwanderer/node-chatgpt-api"><b>waylaidwanderer/node-chatgpt-api</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/mikeroyal/Self-Hosting-Guide"><b>mikeroyal/Self-Hosting-Guide</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Sanster/lama-cleaner"><b>Sanster/lama-cleaner</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
