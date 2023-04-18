@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/cosmo-form"><b>itsApurba/cosmo-form</b></a></td></tr>
+<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/cosmo-form"><b>itsApurba/cosmo-form</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/OddPvP/unblockedgames"><b>OddPvP/unblockedgames</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Mayandev/hacker-feeds-cli"><b>Mayandev/hacker-feeds-cli</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ravenscroftj/turbopilot"><b>ravenscroftj/turbopilot</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/zumly/zumly"><b>zumly/zumly</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/zircleUI/zircleUI"><b>zircleUI/zircleUI</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
