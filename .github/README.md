@@ -89,11 +89,11 @@
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kasm-registry"><b>itsApurba/kasm-registry</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kasm-registry"><b>itsApurba/kasm-registry</b></a></td></tr>
+<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/kasm-registry"><b>itsApurba/kasm-registry</b></a> from <a href="https://github.com/KodeStar/kasm-registry"><b>KodeStar/kasm-registry</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kasm-reg"><b>itsApurba/kasm-reg</b></a></td></tr>
 <tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/kasm-reg"><b>itsApurba/kasm-reg</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/kasm-reg"><b>itsApurba/kasm-reg</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/projectdiscovery/nuclei-templates"><b>projectdiscovery/nuclei-templates</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/enaqx/awesome-react"><b>enaqx/awesome-react</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
