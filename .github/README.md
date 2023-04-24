@@ -86,7 +86,8 @@
 
 <br/>
 
-<table align="center">
+<div style="margin-top:5px" align="center">
+<table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/1337-to/1337x-homepage"><b>1337-to/1337x-homepage</b></a></td></tr>
@@ -97,6 +98,8 @@
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=0e6phl99vxmyt3d7q4fedocyo&count=3" alt="example"/> -->
+</div>
 
 <br/>
 
