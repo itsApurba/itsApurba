@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Full stack web devloper [🇮🇳]</h2>
 <h3 align="left">An aspiring full stack developer with a specialization in 💻 MERN stack. I like to solve problems and making robust user-centric products, Looking forward to honing my skills in a challenging work environment.</h3>
 
-- 🌱 I’m currently actively looking for new opportunities as **MERN stack developer**
+- 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer**
 
 - 👨‍💻 All of my projects are available at [Here](https://itsApurba.github.io#projects)
 
