@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
+<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/Adi-ty"><b>itsApurba/Adi-ty</b></a> from <a href="https://github.com/Adi-ty/Adi-ty"><b>Adi-ty/Adi-ty</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/1337-to/1337x-homepage"><b>1337-to/1337x-homepage</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/yoavbls/pretty-ts-errors"><b>yoavbls/pretty-ts-errors</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kasm-registry"><b>itsApurba/kasm-registry</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kasm-registry"><b>itsApurba/kasm-registry</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/kasm-registry"><b>itsApurba/kasm-registry</b></a> from <a href="https://github.com/KodeStar/kasm-registry"><b>KodeStar/kasm-registry</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
