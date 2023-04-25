@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/vasanthk/how-web-works"><b>vasanthk/how-web-works</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/Pradumnasaraf/DevOps"><b>Pradumnasaraf/DevOps</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Musab-Hassan/slickscrolljs"><b>Musab-Hassan/slickscrolljs</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/Adi-ty"><b>itsApurba/Adi-ty</b></a> from <a href="https://github.com/Adi-ty/Adi-ty"><b>Adi-ty/Adi-ty</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
