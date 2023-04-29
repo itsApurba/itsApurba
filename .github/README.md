@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/timkmecl/chatgpt-vscode"><b>timkmecl/chatgpt-vscode</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/Hi7cl4w/diffy-explain-ai"><b>Hi7cl4w/diffy-explain-ai</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/DonnieRich/commit-ai"><b>DonnieRich/commit-ai</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/luxelodge"><b>itsApurba/luxelodge</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/BloopAI/bloop"><b>BloopAI/bloop</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/vasanthk/how-web-works"><b>vasanthk/how-web-works</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Pradumnasaraf/DevOps"><b>Pradumnasaraf/DevOps</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
