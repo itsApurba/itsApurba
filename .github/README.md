@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Leask/socratex"><b>Leask/socratex</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/veltman/flubber"><b>veltman/flubber</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/peduarte/awesome-developer-experience"><b>peduarte/awesome-developer-experience</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/igordanchenko/react-photo-album"><b>igordanchenko/react-photo-album</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/geekyahmed/referral-system"><b>geekyahmed/referral-system</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Phineas/lanyard"><b>Phineas/lanyard</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/hta218/leohuynh.dev"><b>hta218/leohuynh.dev</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
