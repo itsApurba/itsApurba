@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Evavic44/portfolio-ideas"><b>Evavic44/portfolio-ideas</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/HamishMW/portfolio"><b>HamishMW/portfolio</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/pycoder2000/blog"><b>pycoder2000/blog</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/victorcodess/folio-v1"><b>victorcodess/folio-v1</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/nolimits4web/atropos"><b>nolimits4web/atropos</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/civitai/civitai"><b>civitai/civitai</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
