@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/nolimits4web/atropos"><b>nolimits4web/atropos</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/civitai/civitai"><b>civitai/civitai</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/C-Nedelcu/talk-to-chatgpt"><b>C-Nedelcu/talk-to-chatgpt</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/FastForwardTeam/FastForward"><b>FastForwardTeam/FastForward</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/FlowiseAI/Flowise"><b>FlowiseAI/Flowise</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/smarvins/Framer-Motion-Portfolio"><b>smarvins/Framer-Motion-Portfolio</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
