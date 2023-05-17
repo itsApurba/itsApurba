@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/studio-freight/react-lenis"><b>studio-freight/react-lenis</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/windmill-labs/windmill"><b>windmill-labs/windmill</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/Flowise"><b>itsApurba/Flowise</b></a> from <a href="https://github.com/FlowiseAI/Flowise"><b>FlowiseAI/Flowise</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Evavic44/portfolio-ideas"><b>Evavic44/portfolio-ideas</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/HamishMW/portfolio"><b>HamishMW/portfolio</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/pycoder2000/blog"><b>pycoder2000/blog</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
