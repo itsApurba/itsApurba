@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/microsoft/devicescript"><b>microsoft/devicescript</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/meilisearch/meilisearch"><b>meilisearch/meilisearch</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/nasa/openmct"><b>nasa/openmct</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/SBoudrias/Inquirer.js"><b>SBoudrias/Inquirer.js</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/vitejs/awesome-vite"><b>vitejs/awesome-vite</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/cypress-io/github-action"><b>cypress-io/github-action</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/souravkl11/raganork-md"><b>souravkl11/raganork-md</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
