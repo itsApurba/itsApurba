@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/LazoCoder/Windows-Hacks"><b>LazoCoder/Windows-Hacks</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/xanderfrangos/twinkle-tray"><b>xanderfrangos/twinkle-tray</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/moonD4rk/HackBrowserData"><b>moonD4rk/HackBrowserData</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/winsiderss/systeminformer"><b>winsiderss/systeminformer</b></a></td></tr>
 <tr><td align="center">❗️ Opened issue <a href="https://github.com/itsApurba/taskflow/issues/3"><b>#3</b></a> in <a href="https://github.com/itsApurba/taskflow"><b>itsApurba/taskflow</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/cheatsheet1999/FrontEndCollection"><b>cheatsheet1999/FrontEndCollection</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
