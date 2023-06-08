@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Developer-Y/cs-video-courses"><b>Developer-Y/cs-video-courses</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/ehmicky/cross-platform-node-guide"><b>ehmicky/cross-platform-node-guide</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/The-Young-Programmer/The-Young-Programmer"><b>The-Young-Programmer/The-Young-Programmer</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/currency-app/pull/2"><b>#2</b></a> in <a href="https://github.com/itsApurba/currency-app"><b>itsApurba/currency-app</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/currency-app"><b>itsApurba/currency-app</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/currency-app"><b>itsApurba/currency-app</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
