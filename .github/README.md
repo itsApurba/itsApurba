@@ -90,8 +90,8 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/alyssaxuu/omni"><b>alyssaxuu/omni</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
