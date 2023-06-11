@@ -8,7 +8,7 @@
 
 <!-- - 📝 I regularly write articles on [https://dev.to/inco](https://dev.to/inco) -->
 
-- 💬 Ask me about **react , nodeJS ,Express.js ,mongoDB**
+- 💬 Ask me about **React, Node, Express.js, MongoDB**
 
 - 📫 Drop a mail **its.apurba@outlook.com**
 
