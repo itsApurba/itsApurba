@@ -90,11 +90,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/File-Sharing-Bot"><b>itsApurba/File-Sharing-Bot</b></a> from <a href="https://github.com/CodeXBotz/File-Sharing-Bot"><b>CodeXBotz/File-Sharing-Bot</b></a></td></tr>
+<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/File-Sharing-Bot"><b>itsApurba/File-Sharing-Bot</b></a> from <a href="https://github.com/CodeXBotz/File-Sharing-Bot"><b>CodeXBotz/File-Sharing-Bot</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/itsApurba.github.io/pull/5"><b>#5</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/itsApurba/itsApurba.github.io/pull/5"><b>#5</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
