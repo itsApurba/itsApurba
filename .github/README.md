@@ -13,6 +13,12 @@
 - 📫 Drop a mail **its.apurba@outlook.com**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uV4QKOIX_pyOzzFSEvs21nA-TllwueMv/view?usp=sharing) -->
+ 
+<p align="center">
+<a href="https://discord.com/users/982719324194217984"/>
+<img src="https://discord.c99.nl/widget/theme-3/982719324194217984.png" />
+</a>
+</p>
 
 <br/>
 
