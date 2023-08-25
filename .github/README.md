@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/LinkStackOrg/LinkStack"><b>LinkStackOrg/LinkStack</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ouuan/ouuan"><b>ouuan/ouuan</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students"><b>dipakkr/A-to-Z-Resources-for-Students</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js"><b>smartcontractkit/full-blockchain-solidity-course-js</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js"><b>smartcontractkit/full-blockchain-solidity-course-js</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Selfie-bd/RoseDcBot"><b>Selfie-bd/RoseDcBot</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
