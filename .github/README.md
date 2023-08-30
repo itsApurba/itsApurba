@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/opentffoundation/manifesto"><b>opentffoundation/manifesto</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/satwikkansal/wtfpython"><b>satwikkansal/wtfpython</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/lukasz-madon/awesome-remote-job"><b>lukasz-madon/awesome-remote-job</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Mayandev/notion-avatar"><b>Mayandev/notion-avatar</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/impulse-oss/impulse"><b>impulse-oss/impulse</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/chetannada/Namaste-React"><b>chetannada/Namaste-React</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
