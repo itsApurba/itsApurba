@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/ludwig-ai/ludwig"><b>ludwig-ai/ludwig</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/edarchimbaud/awesome-systematic-trading"><b>edarchimbaud/awesome-systematic-trading</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/donnemartin/system-design-primer"><b>donnemartin/system-design-primer</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/All-Url-Uploader"><b>itsApurba/All-Url-Uploader</b></a> from <a href="https://github.com/kalanakt/All-Url-Uploader"><b>kalanakt/All-Url-Uploader</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/is-a-dev/register"><b>is-a-dev/register</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/TheCaduceus/tg-upload"><b>TheCaduceus/tg-upload</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/opentffoundation/manifesto"><b>opentffoundation/manifesto</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/satwikkansal/wtfpython"><b>satwikkansal/wtfpython</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
