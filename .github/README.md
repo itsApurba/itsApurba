@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/All-Url-Uploader"><b>itsApurba/All-Url-Uploader</b></a> from <a href="https://github.com/kalanakt/All-Url-Uploader"><b>kalanakt/All-Url-Uploader</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/is-a-dev/register"><b>is-a-dev/register</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/TheCaduceus/tg-upload"><b>TheCaduceus/tg-upload</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/opentffoundation/manifesto"><b>opentffoundation/manifesto</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/satwikkansal/wtfpython"><b>satwikkansal/wtfpython</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/lukasz-madon/awesome-remote-job"><b>lukasz-madon/awesome-remote-job</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Mayandev/notion-avatar"><b>Mayandev/notion-avatar</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
