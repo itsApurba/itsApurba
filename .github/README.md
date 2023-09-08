@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/nextflow"><b>itsApurba/nextflow</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/satellite-image-deep-learning/techniques"><b>satellite-image-deep-learning/techniques</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/gregrickaby/nextjs-github-pages"><b>gregrickaby/nextjs-github-pages</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ludwig-ai/ludwig"><b>ludwig-ai/ludwig</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/edarchimbaud/awesome-systematic-trading"><b>edarchimbaud/awesome-systematic-trading</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/donnemartin/system-design-primer"><b>donnemartin/system-design-primer</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
