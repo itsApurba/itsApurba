@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/shadcn-ui/taxonomy"><b>shadcn-ui/taxonomy</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/medyo/hackertab.dev"><b>medyo/hackertab.dev</b></a></td></tr>
 <tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/nextflow"><b>itsApurba/nextflow</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/satellite-image-deep-learning/techniques"><b>satellite-image-deep-learning/techniques</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/gregrickaby/nextjs-github-pages"><b>gregrickaby/nextjs-github-pages</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/ludwig-ai/ludwig"><b>ludwig-ai/ludwig</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
