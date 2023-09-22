@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">✔️ Closed issue <a href="https://github.com/itsApurba/sharewise/issues/1"><b>#1</b></a> in <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/sharewise/pull/3"><b>#3</b></a> in <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/brillout/awesome-react-components"><b>brillout/awesome-react-components</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/shadcn-ui/taxonomy"><b>shadcn-ui/taxonomy</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
