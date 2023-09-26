@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/node-ts"><b>itsApurba/node-ts</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/avelino/awesome-go"><b>avelino/awesome-go</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/dgtlmoon/changedetection.io"><b>dgtlmoon/changedetection.io</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/josephmisiti/awesome-machine-learning"><b>josephmisiti/awesome-machine-learning</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/mevellea/telegram_menu"><b>mevellea/telegram_menu</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
