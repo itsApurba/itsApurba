@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/itsApurba.github.io/pull/6"><b>#6</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/itsApurba/itsApurba.github.io/pull/6"><b>#6</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/node-ts"><b>itsApurba/node-ts</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/avelino/awesome-go"><b>avelino/awesome-go</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
