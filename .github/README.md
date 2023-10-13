@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/payloadcms/website"><b>payloadcms/website</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/psychic-api/rag-stack"><b>psychic-api/rag-stack</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/dutchcoders/transfer.sh"><b>dutchcoders/transfer.sh</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/KudoAI/chatgpt.js"><b>KudoAI/chatgpt.js</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/itsApurba.github.io/pull/6"><b>#6</b></a> in <a href="https://github.com/itsApurba/itsApurba.github.io"><b>itsApurba/itsApurba.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
