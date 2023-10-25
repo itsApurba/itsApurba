@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 I'm Apurba Adhikary</h1>
 <h2 align="center">A passionate Full stack web devloper [🇮🇳]</h2>
-<h3 align="left">Afull stack developer with a specialization in 💻 MERN stack. I like to solve problems and making robust user-centric products.</h3>
+<h3 align="left">MERN❤️ I like to solve problems and making robust user-centric products.</h3>
 
 - 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer**
 
