@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/sindresorhus/awesome-nodejs"><b>sindresorhus/awesome-nodejs</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/BrowserBox/BrowserBox"><b>BrowserBox/BrowserBox</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/udecode/plate"><b>udecode/plate</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/tinacms/tinacms"><b>tinacms/tinacms</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/sharewise/pull/4"><b>#4</b></a> in <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
