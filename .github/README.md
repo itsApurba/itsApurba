@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/wesnoth/wesnoth"><b>wesnoth/wesnoth</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/wesnoth/wesnoth"><b>wesnoth/wesnoth</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/sindresorhus/awesome-nodejs"><b>sindresorhus/awesome-nodejs</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/BrowserBox/BrowserBox"><b>BrowserBox/BrowserBox</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/udecode/plate"><b>udecode/plate</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
