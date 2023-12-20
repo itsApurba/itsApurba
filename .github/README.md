@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks-4BTa/pull/2"><b>#2</b></a> in <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks-4BTa/pull/3"><b>#3</b></a> in <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks/pull/1"><b>#1</b></a> in <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/wesnoth/wesnoth"><b>wesnoth/wesnoth</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
