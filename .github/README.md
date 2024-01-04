@@ -96,11 +96,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/prakhar1989/awesome-courses"><b>prakhar1989/awesome-courses</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/google-this"><b>itsApurba/google-this</b></a> from <a href="https://github.com/LuanRT/google-this"><b>LuanRT/google-this</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Coder-World04/Complete-System-Design"><b>Coder-World04/Complete-System-Design</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks-4BTa/pull/2"><b>#2</b></a> in <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
