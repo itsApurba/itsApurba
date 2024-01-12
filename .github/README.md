@@ -1,14 +1,13 @@
 <h1 align="center">Hi👋 I'm Apurba Adhikary</h1>
-<h2 align="center">A passionate Full stack web devloper [🇮🇳]</h2>
-<h3 align="left">MERN❤️ I like to solve problems and making robust user-centric products.</h3>
+<h2 align="center">A passionate Full stack(MERN❤️) web devloper [🇮🇳]</h2>
 
-- 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer**
+<!-- - 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer** -->
 
 - 👨‍💻 All of my projects are available at [Here](https://itsApurba.github.io#projects)
 
 <!-- - 📝 I regularly write articles on [https://dev.to/inco](https://dev.to/inco) -->
 
-- 💬 Ask me about **React, Node, Express.js, MongoDB**
+- 💬 Ask me about **React, Node, Express.js, MongoDB, Linux**
 
 - 📫 Drop a mail **its.apurba@outlook.com**
 
