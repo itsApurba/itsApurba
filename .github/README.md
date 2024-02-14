@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/lunary-ai/lunary"><b>lunary-ai/lunary</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/wordlists"><b>itsApurba/wordlists</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/currency-app"><b>itsApurba/currency-app</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/currency-app/pull/5"><b>#5</b></a> in <a href="https://github.com/itsApurba/currency-app"><b>itsApurba/currency-app</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/sharewise/pull/6"><b>#6</b></a> in <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
