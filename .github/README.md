@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/amazon-anakin-headless"><b>itsApurba/amazon-anakin-headless</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/grabfood-anakin"><b>itsApurba/grabfood-anakin</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/nikkikharkwal/DSA-with-JS"><b>nikkikharkwal/DSA-with-JS</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/dub"><b>itsApurba/dub</b></a> from <a href="https://github.com/dubinc/dub"><b>dubinc/dub</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/lunary-ai/lunary"><b>lunary-ai/lunary</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/wordlists"><b>itsApurba/wordlists</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/currency-app"><b>itsApurba/currency-app</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
