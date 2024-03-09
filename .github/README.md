@@ -99,7 +99,7 @@
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/expense-management"><b>itsApurba/expense-management</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/expense-management"><b>itsApurba/expense-management</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/expense-management"><b>itsApurba/expense-management</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/expense-management"><b>itsApurba/expense-management</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
