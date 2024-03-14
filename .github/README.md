@@ -95,8 +95,8 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/JoseDeFreitas/awesome-youtubers"><b>JoseDeFreitas/awesome-youtubers</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ixartz/Next-js-Boilerplate"><b>ixartz/Next-js-Boilerplate</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
