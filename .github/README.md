@@ -97,9 +97,9 @@
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/agent-dashboard"><b>itsApurba/agent-dashboard</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/agent-dashboard"><b>itsApurba/agent-dashboard</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/agent-dashboard"><b>itsApurba/agent-dashboard</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Ibit-to/google-unlocked"><b>Ibit-to/google-unlocked</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/crxjs/chrome-extension-tools"><b>crxjs/chrome-extension-tools</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github"><b>stefanbuck/awesome-browser-extensions-for-github</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
