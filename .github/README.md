@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⭐ Starred <a href="https://github.com/academic/awesome-datascience"><b>academic/awesome-datascience</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/PawanOsman/ChatGPT"><b>PawanOsman/ChatGPT</b></a></td></tr>
-<tr><td align="center">🤝 Became collaborator on <a href="https://github.com/itsApurba/company-people"><b>itsApurba/company-people</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/agent-dashboard"><b>itsApurba/agent-dashboard</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/agent-dashboard"><b>itsApurba/agent-dashboard</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 0 commit(s) to <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks-4BTa/pull/5"><b>#5</b></a> in <a href="https://github.com/itsApurba/docker-stacks-4BTa"><b>itsApurba/docker-stacks-4BTa</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 0 commit(s) to <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
