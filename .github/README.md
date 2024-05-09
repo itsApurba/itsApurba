@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/ZeStream/zestream-server"><b>ZeStream/zestream-server</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/weserv/images"><b>weserv/images</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/gitleaks/gitleaks"><b>gitleaks/gitleaks</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/EthicalML/awesome-production-machine-learning"><b>EthicalML/awesome-production-machine-learning</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/fly-n8n"><b>itsApurba/fly-n8n</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/fly-n8n"><b>itsApurba/fly-n8n</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
