@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/rustdesk/rustdesk"><b>rustdesk/rustdesk</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/bleedline/aimoneyhunter"><b>bleedline/aimoneyhunter</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Toxblh/MTMR"><b>Toxblh/MTMR</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/noahgsolomon/brainrot.js"><b>noahgsolomon/brainrot.js</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/binhnguyennus/awesome-scalability"><b>binhnguyennus/awesome-scalability</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/charlax/professional-programming"><b>charlax/professional-programming</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/DSA"><b>itsApurba/DSA</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
