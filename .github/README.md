@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
+<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks/pull/7"><b>#7</b></a> in <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/sharewise/pull/9"><b>#9</b></a> in <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/sharewise/pull/8"><b>#8</b></a> in <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/ai-collection/ai-collection"><b>ai-collection/ai-collection</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
