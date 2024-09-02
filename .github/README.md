@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/bholmesdev/bholmesdev"><b>bholmesdev/bholmesdev</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/RiskyMH/EmailThing"><b>RiskyMH/EmailThing</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/w3cj/bytedash"><b>w3cj/bytedash</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
 <tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/docker-stacks/pull/7"><b>#7</b></a> in <a href="https://github.com/itsApurba/docker-stacks"><b>itsApurba/docker-stacks</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/sharewise"><b>itsApurba/sharewise</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
