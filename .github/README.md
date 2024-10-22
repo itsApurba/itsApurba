@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/flutter/samples"><b>flutter/samples</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/juliansteenbakker/mobile_scanner"><b>juliansteenbakker/mobile_scanner</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/norvig/pytudes"><b>norvig/pytudes</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/memspace/zefyr"><b>memspace/zefyr</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/gofiber/fiber"><b>gofiber/fiber</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/stevencohn/WindowsPowerShell"><b>stevencohn/WindowsPowerShell</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/r1cksec/cheatsheets"><b>r1cksec/cheatsheets</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/lukeed/tmp-cache"><b>lukeed/tmp-cache</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
