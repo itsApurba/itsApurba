@@ -97,9 +97,6 @@
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/henrypp/memreduct"><b>henrypp/memreduct</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/K0IN/Notify"><b>K0IN/Notify</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/flutter/samples"><b>flutter/samples</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/juliansteenbakker/mobile_scanner"><b>juliansteenbakker/mobile_scanner</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/norvig/pytudes"><b>norvig/pytudes</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
