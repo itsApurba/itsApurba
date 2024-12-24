@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/flutterfx/flutterfx_widgets"><b>flutterfx/flutterfx_widgets</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/KRTirtho/spotube"><b>KRTirtho/spotube</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ImranR98/Obtainium"><b>ImranR98/Obtainium</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/AykutSarac/jsoncrack.com"><b>AykutSarac/jsoncrack.com</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/automatisch/automatisch"><b>automatisch/automatisch</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/pluja/awesome-privacy"><b>pluja/awesome-privacy</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
