@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/itsApurba/node_revisit"><b>itsApurba/node_revisit</b></a></td></tr>
-<tr><td align="center">🎉 Merged PR <a href="https://github.com/itsApurba/node_revisit/pull/1"><b>#1</b></a> in <a href="https://github.com/itsApurba/node_revisit"><b>itsApurba/node_revisit</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/henrypp/memreduct"><b>henrypp/memreduct</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/K0IN/Notify"><b>K0IN/Notify</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/flutter/samples"><b>flutter/samples</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/KRTirtho/spotube"><b>KRTirtho/spotube</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/ImranR98/Obtainium"><b>ImranR98/Obtainium</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/AykutSarac/jsoncrack.com"><b>AykutSarac/jsoncrack.com</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/automatisch/automatisch"><b>automatisch/automatisch</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/pluja/awesome-privacy"><b>pluja/awesome-privacy</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
