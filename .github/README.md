@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/pocketbase/pocketbase"><b>pocketbase/pocketbase</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/LycheeOrg/Lychee"><b>LycheeOrg/Lychee</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/featbit/featbit"><b>featbit/featbit</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/actions/runner-images"><b>actions/runner-images</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/GopeedLab/gopeed"><b>GopeedLab/gopeed</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/upscayl/upscayl"><b>upscayl/upscayl</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
