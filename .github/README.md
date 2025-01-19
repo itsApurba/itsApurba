@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⭐ Starred <a href="https://github.com/Freika/dawarich"><b>Freika/dawarich</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/pocketbase/pocketbase"><b>pocketbase/pocketbase</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/LycheeOrg/Lychee"><b>LycheeOrg/Lychee</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/featbit/featbit"><b>featbit/featbit</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/actions/runner-images"><b>actions/runner-images</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/henrygd/beszel"><b>henrygd/beszel</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/Chainlit/cookbook"><b>Chainlit/cookbook</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/Dokploy/dokploy"><b>Dokploy/dokploy</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/mlabonne/llm-course"><b>mlabonne/llm-course</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/emmabostian/developer-portfolios"><b>emmabostian/developer-portfolios</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
