@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Dovakiin0/Kitsune"><b>Dovakiin0/Kitsune</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/zauberzeug/nicegui"><b>zauberzeug/nicegui</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/oumi-ai/oumi"><b>oumi-ai/oumi</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/block/goose"><b>block/goose</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/Shubhamsaboo/awesome-llm-apps"><b>Shubhamsaboo/awesome-llm-apps</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/VishwaGauravIn/linkedin-jobs-api"><b>VishwaGauravIn/linkedin-jobs-api</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
