@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/bregman-arie/devops-exercises"><b>bregman-arie/devops-exercises</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/al1abb/invoify"><b>al1abb/invoify</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/microsoft/TinyTroupe"><b>microsoft/TinyTroupe</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/mastra-ai/mastra"><b>mastra-ai/mastra</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/harry0703/MoneyPrinterTurbo"><b>harry0703/MoneyPrinterTurbo</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/Dovakiin0/Kitsune"><b>Dovakiin0/Kitsune</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/zauberzeug/nicegui"><b>zauberzeug/nicegui</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
