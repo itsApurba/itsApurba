@@ -99,7 +99,6 @@
 <tr><td align="center">⭐ Starred <a href="https://github.com/mnfst/manifest"><b>mnfst/manifest</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/web-padawan/awesome-web-components"><b>web-padawan/awesome-web-components</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ItzCrazyKns/Perplexica"><b>ItzCrazyKns/Perplexica</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/t3dotgg/unduck"><b>t3dotgg/unduck</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
