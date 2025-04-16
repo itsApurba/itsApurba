@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Zackriya-Solutions/meeting-minutes"><b>Zackriya-Solutions/meeting-minutes</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/mongodb-developer/GenAI-Showcase"><b>mongodb-developer/GenAI-Showcase</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/vercel/ai-chatbot"><b>vercel/ai-chatbot</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/microsoft/ai-agents-for-beginners"><b>microsoft/ai-agents-for-beginners</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/patchy631/ai-engineering-hub"><b>patchy631/ai-engineering-hub</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/onwidget/astrowind"><b>onwidget/astrowind</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
