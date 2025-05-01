@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/microsoft/generative-ai-for-beginners"><b>microsoft/generative-ai-for-beginners</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
-<tr><td align="center">📔 Created new repository <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
