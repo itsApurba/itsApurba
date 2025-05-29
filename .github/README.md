@@ -97,7 +97,6 @@
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/freeman-jiang/beatsync"><b>freeman-jiang/beatsync</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/microsoft/generative-ai-for-beginners"><b>microsoft/generative-ai-for-beginners</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
