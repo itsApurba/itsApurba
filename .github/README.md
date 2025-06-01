@@ -96,7 +96,6 @@
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/freeman-jiang/beatsync"><b>freeman-jiang/beatsync</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/microsoft/generative-ai-for-beginners"><b>microsoft/generative-ai-for-beginners</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
