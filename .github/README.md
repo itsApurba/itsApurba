@@ -95,7 +95,6 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⭐ Starred <a href="https://github.com/freeman-jiang/beatsync"><b>freeman-jiang/beatsync</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
