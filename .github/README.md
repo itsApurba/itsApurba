@@ -95,6 +95,7 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/OpenListTeam/OpenList"><b>OpenListTeam/OpenList</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
