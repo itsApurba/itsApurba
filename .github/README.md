@@ -95,11 +95,11 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/jnsahaj/tweakcn"><b>jnsahaj/tweakcn</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/JudiniLabs/mcp-code-graph"><b>JudiniLabs/mcp-code-graph</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ibrahimadams254/BWM-XMD-QUANTUM"><b>ibrahimadams254/BWM-XMD-QUANTUM</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/XdKing2/MALVIN-XD"><b>XdKing2/MALVIN-XD</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/dw-dengwei/daily-arXiv-ai-enhanced"><b>dw-dengwei/daily-arXiv-ai-enhanced</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
