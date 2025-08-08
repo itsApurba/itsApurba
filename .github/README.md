@@ -96,8 +96,6 @@
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/veggiemonk/awesome-docker"><b>veggiemonk/awesome-docker</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/itsApurba/kukufm-downloader"><b>itsApurba/kukufm-downloader</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
