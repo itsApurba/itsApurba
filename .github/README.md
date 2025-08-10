@@ -3,11 +3,11 @@
 
 <!-- - 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer** -->
 
-- 👨‍💻 All of my projects are available at [Here](https://itsApurba.github.io#projects)
+<!-- - 👨‍💻 All of my projects are available at [Here](https://itsApurba.github.io#projects) -->
 
 <!-- - 📝 I regularly write articles on [https://dev.to/inco](https://dev.to/inco) -->
 
-- 💬 Ask me about **React, Node, Express.js, MongoDB, Linux**
+<!-- - 💬 Ask me about **React, Node, Express.js, MongoDB, Linux** -->
 
 - 📫 Drop a mail **its.apurba@outlook.com**
 
