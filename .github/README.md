@@ -95,6 +95,7 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/google-labs-code/jules-awesome-list"><b>google-labs-code/jules-awesome-list</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/veggiemonk/awesome-docker"><b>veggiemonk/awesome-docker</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
