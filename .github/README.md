@@ -95,6 +95,8 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/lfnovo/open-notebook"><b>lfnovo/open-notebook</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/google/langextract"><b>google/langextract</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/itsApurba/itsApurba"><b>itsApurba/itsApurba</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/google-labs-code/jules-awesome-list"><b>google-labs-code/jules-awesome-list</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/veggiemonk/awesome-docker"><b>veggiemonk/awesome-docker</b></a></td></tr>
