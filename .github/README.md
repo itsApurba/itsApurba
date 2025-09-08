@@ -97,9 +97,9 @@
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/TibixDev/winboat"><b>TibixDev/winboat</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/FellouAI/eko"><b>FellouAI/eko</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/iamsrikanthnani/pluely"><b>iamsrikanthnani/pluely</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/ghuntley/how-to-build-a-coding-agent"><b>ghuntley/how-to-build-a-coding-agent</b></a></td></tr>
-<tr><td align="center">💬 Commented on <a href="https://github.com/browserbase/create-browser-app/commit/d61759a0b76f071b649b1a199145bb3771431304#commitcomment-164567288"><b>commit</b></a> in <a href="https://github.com/browserbase/create-browser-app"><b>browserbase/create-browser-app</b></a></td></tr>
+<tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/create-browser-app"><b>itsApurba/create-browser-app</b></a> from <a href="https://github.com/browserbase/create-browser-app"><b>browserbase/create-browser-app</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/TheodoreKrypton/tgfs"><b>TheodoreKrypton/tgfs</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/lfnovo/open-notebook"><b>lfnovo/open-notebook</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
