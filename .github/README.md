@@ -98,7 +98,6 @@
 <tr><td align="center">⭐ Starred <a href="https://github.com/TibixDev/winboat"><b>TibixDev/winboat</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/FellouAI/eko"><b>FellouAI/eko</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/itsApurba/create-browser-app"><b>itsApurba/create-browser-app</b></a> from <a href="https://github.com/browserbase/create-browser-app"><b>browserbase/create-browser-app</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/TheodoreKrypton/tgfs"><b>TheodoreKrypton/tgfs</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
