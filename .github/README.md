@@ -96,7 +96,6 @@
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⭐ Starred <a href="https://github.com/TibixDev/winboat"><b>TibixDev/winboat</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/FellouAI/eko"><b>FellouAI/eko</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
