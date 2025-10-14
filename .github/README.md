@@ -95,6 +95,9 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/github/spec-kit"><b>github/spec-kit</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/simdjson/simdjson"><b>simdjson/simdjson</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/Michael-A-Kuykendall/shimmy"><b>Michael-A-Kuykendall/shimmy</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
