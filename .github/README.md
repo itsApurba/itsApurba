@@ -87,21 +87,21 @@
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details> -->
 
-<h2 align="center"> ──「 ⚡ Recent Activity ⚡ 」──</h2>
+<!-- <h2 align="center"> ──「 ⚡ Recent Activity ⚡ 」──</h2> -->
 
-<br/>
+<!-- <br/> -->
 
-<div style="margin-top:5px" align="center">
+<!-- <div style="margin-top:5px" align="center">
 <table width="50%">
-  <tbody>
+  <tbody> -->
   <!--RECENT_ACTIVITY:start-->
   <!--RECENT_ACTIVITY:end-->
-  </tbody>
-</table>
+  <!-- </tbody>
+</table> -->
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=0e6phl99vxmyt3d7q4fedocyo&count=3" alt="example"/> -->
-</div>
+<!-- </div>
 
-<br/>
+<br/> -->
 
 <a href="https://github.com/itsApurba"><img alt="Apurba Adhikary" src="https://github-readme-activity-graph.vercel.app/graph?username=itsapurba&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
 
