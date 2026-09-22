@@ -32,11 +32,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+<!-- <br/>
 
 <h2 align="center"> ──「 📊 My Github Stats 📊 」──</h2>
 
-<br/>
+<br/> -->
 
 <!--
 [![Apurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsApurba&show_icons=true&count_private=true&hide=stars&theme=dark)](https://github.com/itsApurba)
