@@ -103,10 +103,10 @@
 
 <br/> -->
 
-<a href="https://github.com/itsApurba"><img alt="Apurba Adhikary" src="https://github-readme-activity-graph.vercel.app/graph?username=itsapurba&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
+<!-- <a href="https://github.com/itsApurba"><img alt="Apurba Adhikary" src="https://github-readme-activity-graph.vercel.app/graph?username=itsapurba&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 <p align="center">
 <a href="https://linkedin.com/in/apurba1212" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Apurba Adhikary" height="40" width="40" /></a>
