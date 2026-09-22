@@ -63,7 +63,7 @@
 
 <!-- https://streak-stats.demolab.com/ -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/itsApurba">
   <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsApurba&layout=compact&langs_count=4&theme=dark" />
 </a>
@@ -76,7 +76,7 @@
 
 > <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+<br/> -->
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
